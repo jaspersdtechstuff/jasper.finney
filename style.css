@@ -1,7 +1,7 @@
 /*============{ elements }==============*/
 header {
 	background-color: #000180;
-	font-family: 'Source Code Pro',monospace;
+	font-family: 'Crimson Pro',monospace;
 	color: #ffffff;
 	text-align:center;
 	position: absolute;
@@ -9,11 +9,11 @@ header {
 
 p {
 	color: #0F4C5C;
-	font-family: 'Source Code Pro',monospace;
+	font-family: 'Crimson Pro',monospace;
 }
 
 h1 {
-	font-family: 'Source Code Pro',monospace;
+	font-family: 'Crimson Pro',monospace;
 }
 
 main {
@@ -41,7 +41,7 @@ body {
 	margin: 5px;
   text-decoration: none;
   font-size: 17px;
-	font-family: 'Source Code Pro',monospace;
+	font-family: 'Crimson Pro',monospace;
 	z-index: 10;
  }
 
