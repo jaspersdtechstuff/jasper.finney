@@ -60,16 +60,41 @@ body {
 }
 /*infobox*/
 .infoBox {
+	float: left;
 	background-color: #3DD2FF;
-	
+	width: 24.99999%;
+	height: 100vh;
+	}
+
+
+.infoBox p {
+	padding: 10px;
 }
+
+.spotlight {
+	
+	width:75.11111%;
+	height:100vh;
+}
+
+.spotlightInfo {
+	float: left;
+	background-color: #3358FF;
+	width: 33.333333%;
+	height: 100vh;
+
+	}
+
+
+.spotlightInfo p {
+	padding: 10px;
 /*============{ IDS }==============*/
 
 /*============{ width changing elements }==============*/
 
 
 
-/*medium screens*/
+/*medium screens
 @media (min-width:601px){
 	.infoBox {
 		width: 100%;
@@ -79,7 +104,7 @@ body {
 	.infoBox {
 		width: 33.33333%;
 	}
-}
+}*/
 @media screen and (max-width: 600px) {
   .topnav a:not(:first-child) {display: none;}
   .topnav a.icon {
