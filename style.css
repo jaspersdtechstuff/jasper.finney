@@ -1,7 +1,7 @@
 /*============{ elements }==============*/
 header {
 	background-color: #000180;
-	font-family: 'Crimson Pro',monospace;
+	font-family: 'Source Serif Pro',monospace;
 	color: #ffffff;
 	text-align:center;
 	position: absolute;
@@ -9,11 +9,11 @@ header {
 
 p {
 	color: #0F4C5C;
-	font-family: 'Crimson Pro',monospace;
+	font-family: 'Source Serif Pro',monospace;
 }
 
 h1 {
-	font-family: 'Crimson Pro',monospace;
+	font-family: 'Source Serif Pro',monospace;
 }
 
 main {
@@ -41,7 +41,7 @@ body {
 	margin: 5px;
   text-decoration: none;
   font-size: 17px;
-	font-family: 'Crimson Pro',monospace;
+	font-family: 'Source Serif Pro',monospace;
 	z-index: 10;
  }
 
